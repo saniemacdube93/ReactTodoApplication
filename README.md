@@ -1,3 +1,7 @@
+CLICK HERE TO VIEW THE PROJECT LIVE ON THE FOLLOWING URL
+https://todo-app-cp-533bb.web.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
